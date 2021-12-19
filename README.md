@@ -10,4 +10,8 @@ Database architecture for e-market
    а также их ценового диапазона
 4. Сбор данных статистики по местам заказов и проведение анализа логистики доставки
 
+Создание кластера PostgreSQL в докере на Ubuntu 18.04, запуск сервер и подключение клиента
+![дз1](https://user-images.githubusercontent.com/55914169/146678007-2b4ac863-ffee-4059-bcc2-a4d9e1c12c83.JPG)
+![дз2](https://user-images.githubusercontent.com/55914169/146678201-d2cadcce-9d64-45d4-ad69-f430dad4d1c8.JPG)
+
 
